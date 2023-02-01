@@ -4,7 +4,7 @@ Weve all been the recipient of spam emails before. Spam mail, or junk mail, is a
 
 In this Project, use Python to build an email spam detector. Then, use machine learning to train the spam detector to recognize and classify emails into spam and non-spam. Let's get started!
 
-Applied : 
+### Applied : 
 - DATA CLEANING
 - EDA
 - HEAT MAP
@@ -16,11 +16,13 @@ Applied :
 - TRAIN THE MODEL (Model Evaluation)
 - Finally made - "EMAIL SPAM DETECTOR"
 
- Solved with : Logistic Regression Algorithm
+### Dataset Used : "spam.csv" 
 
- Technologies Used : Python, Machine Learning
+### Solved with : Logistic Regression Algorithm
+
+### Technologies Used : Python, Machine Learning
  
- Python libraries used : 
+### Python libraries used : 
  - numpy
  - pandas
  - nltk
@@ -29,4 +31,4 @@ Applied :
  - seaborn
  - string
 
-IDE - Google Colab
+### IDE - Google Colab
