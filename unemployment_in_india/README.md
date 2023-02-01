@@ -17,7 +17,7 @@ Unemployment is measured by the unemployment rate which is the number of people 
 - Unemployment in India dataset
 
 ### RESULT : 
-Showed the analysis with graphs in different region,area,dirctions,unempoyment status,employment status,labour participation,logitude and latitude data with respect to each others
+FINAL DISPLAY OF THE UNEMPLOYMENT RATE IN INDIA AND SPECIFICALLY IN 2020 IN INDIA 
 
 ### Technologies Used : Python, Machine Learning
 
