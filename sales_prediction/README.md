@@ -4,7 +4,7 @@ Sales prediction means predicting how much of a product people will buy based on
 
 Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. So let's start the task of sales prediction with machine learning using Python.
 
-Applied :
+### Applied :
 
 - HEAT MAP (Generating correlation matrix using Seaborn library)
 - GRAPHICAL REPRESENTATION (Statistics summary of dataset)
@@ -15,11 +15,13 @@ Applied :
 - Finally showed "PREDICTED SALES GRAPH"
 - Evaluated the Model (using Mean errors)
 
-Solved with : Multiple Linear Regression Algorithm
+### Dataset used : "Advertising.csv" 
 
-Technologies Used : Python Machine Learning
+### Solved with : Multiple Linear Regression Algorithm
 
-Python Libraries used :
+### Technologies Used : Python Machine Learning
+
+### Python Libraries used :
 
 - pandas
 - numpy
@@ -27,4 +29,4 @@ Python Libraries used :
 - matplotlib
 - seaborn
 
-IDE - Jupyter Notebook
+### IDE - Jupyter Notebook
